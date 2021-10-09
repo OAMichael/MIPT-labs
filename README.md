@@ -3,4 +3,4 @@
 This repository contains MIPT labs
 
 
-In thrid semester I had to carry out labs in particular order, thus page numeration is broken.
+In third semester I had to carry out labs in particular order, thus page numeration is broken.
