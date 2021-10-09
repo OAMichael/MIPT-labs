@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  2 APR 2021 01:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  9 OCT 2021 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -766,10 +766,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-<Рис 1.png, id=35, 426.393pt x 251.7405pt>
-File: Рис 1.png Graphic file (type png)
-<use Рис 1.png>
-Package pdftex.def Info: Рис 1.png  used on input line 149.
+<Pictures/Рис 1.png, id=35, 426.393pt x 251.7405pt>
+File: Pictures/Рис 1.png Graphic file (type png)
+<use Pictures/Рис 1.png>
+Package pdftex.def Info: Pictures/Рис 1.png  used on input line 149.
 (pdftex.def)             Requested size: 426.39195pt x 251.73987pt.
 
 Overfull \hbox (13.10907pt too wide) in paragraph at lines 152--153
@@ -810,7 +810,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./Рис 1.png>]
+[5 <./Pictures/Рис 1.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -820,10 +820,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<График 1.png, id=42, 678.73575pt x 467.94826pt>
-File: График 1.png Graphic file (type png)
-<use График 1.png>
-Package pdftex.def Info: График 1.png  used on input line 243.
+<Pictures/График 1.png, id=42, 678.73575pt x 467.94826pt>
+File: Pictures/График 1.png Graphic file (type png)
+<use Pictures/График 1.png>
+Package pdftex.def Info: Pictures/График 1.png  used on input line 243.
 (pdftex.def)             Requested size: 407.24458pt x 280.77112pt.
 
 
@@ -835,10 +835,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-<График 2.png, id=50, 579.96675pt x 413.1435pt>
-File: График 2.png Graphic file (type png)
-<use График 2.png>
-Package pdftex.def Info: График 2.png  used on input line 276.
+<Pictures/График 2.png, id=50, 579.96675pt x 413.1435pt>
+File: Pictures/График 2.png Graphic file (type png)
+<use Pictures/График 2.png>
+Package pdftex.def Info: Pictures/График 2.png  used on input line 276.
 (pdftex.def)             Requested size: 405.97395pt x 289.19846pt.
 
 
@@ -849,11 +849,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./График 1.png>]
-<График 3.png, id=55, 600.44325pt x 392.06474pt>
-File: График 3.png Graphic file (type png)
-<use График 3.png>
-Package pdftex.def Info: График 3.png  used on input line 296.
+[8 <./Pictures/График 1.png>]
+<Pictures/График 3.png, id=55, 600.44325pt x 392.06474pt>
+File: Pictures/График 3.png Graphic file (type png)
+<use Pictures/График 3.png>
+Package pdftex.def Info: Pictures/График 3.png  used on input line 296.
 (pdftex.def)             Requested size: 420.30742pt x 274.44344pt.
 
 
@@ -864,7 +864,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9 <./График 2.png>]
+[9 <./Pictures/График 2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 320--323
 
  []
@@ -902,7 +902,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10 <./График 3.png>]
+[10 <./Pictures/График 3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 344--347
 
  []
@@ -960,8 +960,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [13] (./2.1.6.aux) ) 
 Here is how much of TeX's memory you used:
- 7190 strings out of 479023
- 104403 string characters out of 5863350
+ 7191 strings out of 479023
+ 104592 string characters out of 5863350
  446893 words of memory out of 5000000
  24511 multiletter control sequences out of 15000+600000
  416233 words of font info for 55 fonts, out of 8000000 for 9000

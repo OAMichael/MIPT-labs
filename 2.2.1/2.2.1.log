@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  14 MAY 2021 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  9 OCT 2021 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,27 +677,27 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 59
 (c:/texlive/2020/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 ) [2]
-<Рис1.png, id=16, 571.53525pt x 430.60875pt>
-File: Рис1.png Graphic file (type png)
-<use Рис1.png>
-Package pdftex.def Info: Рис1.png  used on input line 80.
+<Pictures/Рис1.png, id=16, 571.53525pt x 430.60875pt>
+File: Pictures/Рис1.png Graphic file (type png)
+<use Pictures/Рис1.png>
+Package pdftex.def Info: Pictures/Рис1.png  used on input line 80.
 (pdftex.def)             Requested size: 457.2288pt x 344.48746pt.
 
 Overfull \hbox (1.9847pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
-[3 <./Рис1.png>]
-<Рис2.png, id=21, 348.1005pt x 391.4625pt>
-File: Рис2.png Graphic file (type png)
-<use Рис2.png>
-Package pdftex.def Info: Рис2.png  used on input line 146.
+[3 <./Pictures/Рис1.png>]
+<Pictures/Рис2.png, id=21, 348.1005pt x 391.4625pt>
+File: Pictures/Рис2.png Graphic file (type png)
+<use Pictures/Рис2.png>
+Package pdftex.def Info: Pictures/Рис2.png  used on input line 146.
 (pdftex.def)             Requested size: 159.33821pt x 179.18492pt.
- [4] [5 <./Рис2.png>]
-<Рис3.png, id=31, 365.56575pt x 366.168pt>
-File: Рис3.png Graphic file (type png)
-<use Рис3.png>
-Package pdftex.def Info: Рис3.png  used on input line 178.
+ [4] [5 <./Pictures/Рис2.png>]
+<Pictures/Рис3.png, id=31, 365.56575pt x 366.168pt>
+File: Pictures/Рис3.png Graphic file (type png)
+<use Pictures/Рис3.png>
+Package pdftex.def Info: Pictures/Рис3.png  used on input line 178.
 (pdftex.def)             Requested size: 159.33821pt x 159.60027pt.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 179.
@@ -707,158 +707,168 @@ LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 183.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 183.
- [6 <./Рис3.png>] [7] [8]
-[9] [10] [11]
-<Все(эксп).png, id=52, 578.16pt x 433.62pt>
-File: Все(эксп).png Graphic file (type png)
-<use Все(эксп).png>
-Package pdftex.def Info: Все(эксп).png  used on input line 330.
+ [6 <./Pictures/Рис3.png>] [7] [8] [9] [10] [11]
+<Pictures/Все(эксп).png, id=52, 578.16pt x 433.62pt>
+File: Pictures/Все(эксп).png Graphic file (type png)
+<use Pictures/Все(эксп).png>
+Package pdftex.def Info: Pictures/Все(эксп).png  used on input line 330.
+
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 330--331
  [][] 
  []
 
-[12 <./Все(эксп).png>]
-<Все(лин).png, id=58, 578.16pt x 433.62pt>
-File: Все(лин).png Graphic file (type png)
-<use Все(лин).png>
-Package pdftex.def Info: Все(лин).png  used on input line 338.
+[12 <./Pictures/Все(эксп).png>]
+<Pictures/Все(лин).png, id=58, 578.16pt x 433.62pt>
+File: Pictures/Все(лин).png Graphic file (type png)
+<use Pictures/Все(лин).png>
+Package pdftex.def Info: Pictures/Все(лин).png  used on input line 338.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 338--339
  [][] 
  []
 
-[13 <./Все(лин).png>]
-<График1(эксп).png, id=64, 578.16pt x 433.62pt>
-File: График1(эксп).png Graphic file (type png)
-<use График1(эксп).png>
-Package pdftex.def Info: График1(эксп).png  used on input line 351.
+[13 <./Pictures/Все(лин).png>]
+<Pictures/График1(эксп).png, id=64, 578.16pt x 433.62pt>
+File: Pictures/График1(эксп).png Graphic file (type png)
+<use Pictures/График1(эксп).png>
+Package pdftex.def Info: Pictures/График1(эксп).png  used on input li
+ne 351.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 351--352
  [][] 
  []
 
-[14 <./График1(эксп).png>]
-<График1(лин).png, id=70, 578.16pt x 433.62pt>
-File: График1(лин).png Graphic file (type png)
-<use График1(лин).png>
-Package pdftex.def Info: График1(лин).png  used on input line 377.
+[14 <./Pictures/График1(эксп).png>]
+<Pictures/График1(лин).png, id=70, 578.16pt x 433.62pt>
+File: Pictures/График1(лин).png Graphic file (type png)
+<use Pictures/График1(лин).png>
+Package pdftex.def Info: Pictures/График1(лин).png  used on input line
+ 377.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 377--378
  [][] 
  []
 
-[15 <./График1(лин).png>]
-<График2(эксп).png, id=75, 578.16pt x 433.62pt>
-File: График2(эксп).png Graphic file (type png)
-<use График2(эксп).png>
-Package pdftex.def Info: График2(эксп).png  used on input line 399.
+[15 <./Pictures/График1(лин).png>]
+<Pictures/График2(эксп).png, id=75, 578.16pt x 433.62pt>
+File: Pictures/График2(эксп).png Graphic file (type png)
+<use Pictures/График2(эксп).png>
+Package pdftex.def Info: Pictures/График2(эксп).png  used on input li
+ne 399.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 399--400
  [][] 
  []
 
-[16 <./График2(эксп).png>]
-<График2(лин).png, id=80, 578.16pt x 433.62pt>
-File: График2(лин).png Graphic file (type png)
-<use График2(лин).png>
-Package pdftex.def Info: График2(лин).png  used on input line 420.
+[16 <./Pictures/График2(эксп).png>]
+<Pictures/График2(лин).png, id=80, 578.16pt x 433.62pt>
+File: Pictures/График2(лин).png Graphic file (type png)
+<use Pictures/График2(лин).png>
+Package pdftex.def Info: Pictures/График2(лин).png  used on input line
+ 420.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 420--421
  [][] 
  []
 
-[17 <./График2(лин).png>]
-<График3(эксп).png, id=85, 578.16pt x 433.62pt>
-File: График3(эксп).png Graphic file (type png)
-<use График3(эксп).png>
-Package pdftex.def Info: График3(эксп).png  used on input line 431.
+[17 <./Pictures/График2(лин).png>]
+<Pictures/График3(эксп).png, id=85, 578.16pt x 433.62pt>
+File: Pictures/График3(эксп).png Graphic file (type png)
+<use Pictures/График3(эксп).png>
+Package pdftex.def Info: Pictures/График3(эксп).png  used on input li
+ne 431.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 431--432
  [][] 
  []
 
-[18 <./График3(эксп).png>]
-<График3(лин).png, id=90, 578.16pt x 433.62pt>
-File: График3(лин).png Graphic file (type png)
-<use График3(лин).png>
-Package pdftex.def Info: График3(лин).png  used on input line 452.
+[18 <./Pictures/График3(эксп).png>]
+<Pictures/График3(лин).png, id=90, 578.16pt x 433.62pt>
+File: Pictures/График3(лин).png Graphic file (type png)
+<use Pictures/График3(лин).png>
+Package pdftex.def Info: Pictures/График3(лин).png  used on input line
+ 452.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 452--453
  [][] 
  []
 
-[19 <./График3(лин).png>]
-<График4(эксп).png, id=96, 578.16pt x 433.62pt>
-File: График4(эксп).png Graphic file (type png)
-<use График4(эксп).png>
-Package pdftex.def Info: График4(эксп).png  used on input line 463.
+[19 <./Pictures/График3(лин).png>]
+<Pictures/График4(эксп).png, id=96, 578.16pt x 433.62pt>
+File: Pictures/График4(эксп).png Graphic file (type png)
+<use Pictures/График4(эксп).png>
+Package pdftex.def Info: Pictures/График4(эксп).png  used on input li
+ne 463.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 463--464
  [][] 
  []
 
-[20 <./График4(эксп).png>]
-<График4(лин).png, id=101, 578.16pt x 433.62pt>
-File: График4(лин).png Graphic file (type png)
-<use График4(лин).png>
-Package pdftex.def Info: График4(лин).png  used on input line 484.
+[20 <./Pictures/График4(эксп).png>]
+<Pictures/График4(лин).png, id=101, 578.16pt x 433.62pt>
+File: Pictures/График4(лин).png Graphic file (type png)
+<use Pictures/График4(лин).png>
+Package pdftex.def Info: Pictures/График4(лин).png  used on input line
+ 484.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 484--485
  [][] 
  []
 
-[21 <./График4(лин).png>]
-<График5(эксп).png, id=106, 578.16pt x 433.62pt>
-File: График5(эксп).png Graphic file (type png)
-<use График5(эксп).png>
-Package pdftex.def Info: График5(эксп).png  used on input line 496.
+[21 <./Pictures/График4(лин).png>]
+<Pictures/График5(эксп).png, id=106, 578.16pt x 433.62pt>
+File: Pictures/График5(эксп).png Graphic file (type png)
+<use Pictures/График5(эксп).png>
+Package pdftex.def Info: Pictures/График5(эксп).png  used on input li
+ne 496.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 496--497
  [][] 
  []
 
-[22 <./График5(эксп).png>]
-<График5(лин).png, id=111, 578.16pt x 433.62pt>
-File: График5(лин).png Graphic file (type png)
-<use График5(лин).png>
-Package pdftex.def Info: График5(лин).png  used on input line 517.
+[22 <./Pictures/График5(эксп).png>]
+<Pictures/График5(лин).png, id=111, 578.16pt x 433.62pt>
+File: Pictures/График5(лин).png Graphic file (type png)
+<use Pictures/График5(лин).png>
+Package pdftex.def Info: Pictures/График5(лин).png  used on input line
+ 517.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 517--518
  [][] 
  []
 
-[23 <./График5(лин).png>]
-<D(P).png, id=116, 578.16pt x 433.62pt>
-File: D(P).png Graphic file (type png)
-<use D(P).png>
-Package pdftex.def Info: D(P).png  used on input line 546.
+[23 <./Pictures/График5(лин).png>]
+<Pictures/D(P).png, id=116, 578.16pt x 433.62pt>
+File: Pictures/D(P).png Graphic file (type png)
+<use Pictures/D(P).png>
+Package pdftex.def Info: Pictures/D(P).png  used on input line 546.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 546--547
  [][] 
  []
 
-[24 <./D(P).png>] [25] [26] (./2.2.1.aux)
+[24 <./Pictures/D(P).png>] [25] [26] (./2.2.1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7451 strings out of 479023
- 108256 string characters out of 5863350
+ 7452 strings out of 479023
+ 108985 string characters out of 5863350
  460234 words of memory out of 5000000
  24783 multiletter control sequences out of 15000+600000
  414639 words of font info for 57 fonts, out of 8000000 for 9000

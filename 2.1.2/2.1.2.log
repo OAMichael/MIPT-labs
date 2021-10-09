@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  8 APR 2021 20:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  9 OCT 2021 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -681,41 +681,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<Установка.png, id=10, 589.60275pt x 360.74776pt>
-File: Установка.png Graphic file (type png)
-<use Установка.png>
-Package pdftex.def Info: Установка.png  used on input line 61.
+<Pictures/Установка.png, id=10, 589.60275pt x 360.74776pt>
+File: Pictures/Установка.png Graphic file (type png)
+<use Pictures/Установка.png>
+Package pdftex.def Info: Pictures/Установка.png  used on input line 61
+.
 (pdftex.def)             Requested size: 235.83691pt x 144.29654pt.
-[2 <./Установка.png>] [3] [4] [5] [6] [7]
-<h(t).png, id=36, 578.16pt x 433.62pt>
-File: h(t).png Graphic file (type png)
-<use h(t).png>
-Package pdftex.def Info: h(t).png  used on input line 231.
+[2 <./Pictures/Установка.png>] [3] [4] [5] [6] [7]
+<Pictures/h(t).png, id=36, 578.16pt x 433.62pt>
+File: Pictures/h(t).png Graphic file (type png)
+<use Pictures/h(t).png>
+Package pdftex.def Info: Pictures/h(t).png  used on input line 231.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 231--232
  [][] 
  []
 
-[8 <./h(t).png>] [9]
-<g(t).png, id=46, 578.16pt x 433.62pt>
-File: g(t).png Graphic file (type png)
-<use g(t).png>
-Package pdftex.def Info: g(t).png  used on input line 268.
+[8 <./Pictures/h(t).png>] [9]
+<Pictures/g(t).png, id=46, 578.16pt x 433.62pt>
+File: Pictures/g(t).png Graphic file (type png)
+<use Pictures/g(t).png>
+Package pdftex.def Info: Pictures/g(t).png  used on input line 268.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 268--269
  [][] 
  []
 
-[10 <./g(t).png>] [11] (./2.1.2.aux)
+[10 <./Pictures/g(t).png>] [11] (./2.1.2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7361 strings out of 479023
- 106074 string characters out of 5863350
+ 7362 strings out of 479023
+ 106218 string characters out of 5863350
  434234 words of memory out of 5000000
  24710 multiletter control sequences out of 15000+600000
  413492 words of font info for 52 fonts, out of 8000000 for 9000

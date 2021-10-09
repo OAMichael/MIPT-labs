@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  30 SEP 2021 01:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  9 OCT 2021 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,84 +680,83 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 50
 (c:/texlive/2020/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<Гор.png, id=8, 234.27525pt x 446.26724pt>
-File: Гор.png Graphic file (type png)
-<use Гор.png>
-Package pdftex.def Info: Гор.png  used on input line 60.
+<Pictures/Гор.png, id=8, 234.27525pt x 446.26724pt>
+File: Pictures/Гор.png Graphic file (type png)
+<use Pictures/Гор.png>
+Package pdftex.def Info: Pictures/Гор.png  used on input line 60.
 (pdftex.def)             Requested size: 163.99155pt x 312.38493pt.
- [20 <./Гор.png>]
-<Вер.png, id=17, 355.92975pt x 439.6425pt>
-File: Вер.png Graphic file (type png)
-<use Вер.png>
-Package pdftex.def Info: Вер.png  used on input line 78.
+ [20 <./Pictures/Гор.png>]
+<Pictures/Вер.png, id=17, 355.92975pt x 439.6425pt>
+File: Pictures/Вер.png Graphic file (type png)
+<use Pictures/Вер.png>
+Package pdftex.def Info: Pictures/Вер.png  used on input line 78.
 (pdftex.def)             Requested size: 249.14912pt x 307.74765pt.
-
-[21 <./Вер.png>] [22] [23]
-<T(n).png, id=32, 578.16pt x 433.62pt>
-File: T(n).png Graphic file (type png)
-<use T(n).png>
-Package pdftex.def Info: T(n).png  used on input line 183.
+ [21 <./Pictures/Вер.png>] [22] [23]
+<Pictures/T(n).png, id=32, 578.16pt x 433.62pt>
+File: Pictures/T(n).png Graphic file (type png)
+<use Pictures/T(n).png>
+Package pdftex.def Info: Pictures/T(n).png  used on input line 183.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 Overfull \hbox (7.28452pt too wide) in paragraph at lines 183--184
  [][] 
  []
 
-[24 <./T(n).png>]
-<angleMes.jpg, id=38, 963.6pt x 717.882pt>
-File: angleMes.jpg Graphic file (type jpg)
-<use angleMes.jpg>
-Package pdftex.def Info: angleMes.jpg  used on input line 213.
+[24 <./Pictures/T(n).png>]
+<Pictures/angleMes.jpg, id=38, 963.6pt x 717.882pt>
+File: Pictures/angleMes.jpg Graphic file (type jpg)
+<use Pictures/angleMes.jpg>
+Package pdftex.def Info: Pictures/angleMes.jpg  used on input line 213.
 (pdftex.def)             Requested size: 481.79883pt x 358.94012pt.
 
 Overfull \hbox (26.55472pt too wide) in paragraph at lines 213--214
  [][] 
  []
 
-[25 <./angleMes.jpg>]
-<sign.jpg, id=45, 1261.71375pt x 1606.0pt>
-File: sign.jpg Graphic file (type jpg)
-<use sign.jpg>
-Package pdftex.def Info: sign.jpg  used on input line 238.
+[25 <./Pictures/angleMes.jpg>]
+<Pictures/sign.jpg, id=45, 1261.71375pt x 1606.0pt>
+File: Pictures/sign.jpg Graphic file (type jpg)
+<use Pictures/sign.jpg>
+Package pdftex.def Info: Pictures/sign.jpg  used on input line 238.
 (pdftex.def)             Requested size: 403.75665pt x 513.93051pt.
-<Цил.png, id=46, 299.9205pt x 149.358pt>
-File: Цил.png Graphic file (type png)
-<use Цил.png>
-Package pdftex.def Info: Цил.png  used on input line 244.
+<Pictures/Цил.png, id=46, 299.9205pt x 149.358pt>
+File: Pictures/Цил.png Graphic file (type png)
+<use Pictures/Цил.png>
+Package pdftex.def Info: Pictures/Цил.png  used on input line 244.
 (pdftex.def)             Requested size: 209.9429pt x 104.54987pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<убыв.png, id=47, 606.46574pt x 417.35925pt>
-File: убыв.png Graphic file (type png)
-<use убыв.png>
-Package pdftex.def Info: убыв.png  used on input line 266.
+<Pictures/убыв.png, id=47, 606.46574pt x 417.35925pt>
+File: Pictures/убыв.png Graphic file (type png)
+<use Pictures/убыв.png>
+Package pdftex.def Info: Pictures/убыв.png  used on input line 266.
 (pdftex.def)             Requested size: 424.52312pt x 292.14948pt.
-[26 <./sign.jpg> <./Цил.png>]
-<возраст.png, id=51, 716.07526pt x 478.78876pt>
-File: возраст.png Graphic file (type png)
-<use возраст.png>
-Package pdftex.def Info: возраст.png  used on input line 274.
+[26 <./Pictures/sign.jpg> <./Pictures/Цил.png>]
+<Pictures/возраст.png, id=51, 716.07526pt x 478.78876pt>
+File: Pictures/возраст.png Graphic file (type png)
+<use Pictures/возраст.png>
+Package pdftex.def Info: Pictures/возраст.png  used on input line 274.
 (pdftex.def)             Requested size: 415.32393pt x 277.69766pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<оба.png, id=52, 598.03426pt x 427.5975pt>
-File: оба.png Graphic file (type png)
-<use оба.png>
-Package pdftex.def Info: оба.png  used on input line 283.
+<Pictures/оба.png, id=52, 598.03426pt x 427.5975pt>
+File: Pictures/оба.png Graphic file (type png)
+<use Pictures/оба.png>
+Package pdftex.def Info: Pictures/оба.png  used on input line 283.
 (pdftex.def)             Requested size: 418.62112pt x 299.31621pt.
-[27 <./убыв.png>] [28 <./возраст.png> <./оба.png>] [29]
-(./3.1.3.aux)
+[27 <./Pictures/убыв.png>] [28 <./Pictures/возраст.png> <./Pictures/
+оба.png>] [29] (./3.1.3.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7456 strings out of 479023
- 107493 string characters out of 5863350
+ 7457 strings out of 479023
+ 107907 string characters out of 5863350
  438862 words of memory out of 5000000
  24793 multiletter control sequences out of 15000+600000
  413829 words of font info for 53 fonts, out of 8000000 for 9000

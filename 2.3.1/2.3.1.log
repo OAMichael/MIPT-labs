@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  2 MAY 2021 22:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.12)  9 OCT 2021 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,45 +852,45 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 [26
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<lnP(t) ДН.png, id=25, 578.16pt x 433.62pt>
-File: lnP(t) ДН.png Graphic file (type png)
-<use lnP(t) ДН.png>
-Package pdftex.def Info: lnP(t) ДН.png  used on input line 102.
+<Pictures/lnP(t) ДН.png, id=25, 578.16pt x 433.62pt>
+File: Pictures/lnP(t) ДН.png Graphic file (type png)
+<use Pictures/lnP(t) ДН.png>
+Package pdftex.def Info: Pictures/lnP(t) ДН.png  used on input line 102.
 (pdftex.def)             Requested size: 404.70924pt x 303.53192pt.
- [27 <./lnP(t) ДН.png>] [28]
-<lnP(t) ТМН.png, id=39, 578.16pt x 433.62pt>
-File: lnP(t) ТМН.png Graphic file (type png)
-<use lnP(t) ТМН.png>
-Package pdftex.def Info: lnP(t) ТМН.png  used on input line 198.
+ [27 <./Pictures/lnP(t) ДН.png>] [28]
+<Pictures/lnP(t) ТМН.png, id=39, 578.16pt x 433.62pt>
+File: Pictures/lnP(t) ТМН.png Graphic file (type png)
+<use Pictures/lnP(t) ТМН.png>
+Package pdftex.def Info: Pictures/lnP(t) ТМН.png  used on input line 162.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
-Overfull \hbox (7.28452pt too wide) in paragraph at lines 198--199
+Overfull \hbox (7.28452pt too wide) in paragraph at lines 162--163
  [][] 
  []
 
-[29 <./lnP(t) ТМН.png>] [30]
-<W(P) повыш.png, id=53, 578.16pt x 433.62pt>
-File: W(P) повыш.png Graphic file (type png)
-<use W(P) повыш.png>
-Package pdftex.def Info: W(P) повыш.png  used on input line 270.
+[29 <./Pictures/lnP(t) ТМН.png>] [30]
+<Pictures/W(P) повыш.png, id=53, 578.16pt x 433.62pt>
+File: Pictures/W(P) повыш.png Graphic file (type png)
+<use Pictures/W(P) повыш.png>
+Package pdftex.def Info: Pictures/W(P) повыш.png  used on input line 234.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
-Overfull \hbox (7.28452pt too wide) in paragraph at lines 270--271
+Overfull \hbox (7.28452pt too wide) in paragraph at lines 234--235
  [][] 
  []
 
-[31 <./W(P) повыш.png>]
-<W(P) пониж.png, id=61, 578.16pt x 433.62pt>
-File: W(P) пониж.png Graphic file (type png)
-<use W(P) пониж.png>
-Package pdftex.def Info: W(P) пониж.png  used on input line 281.
+[31 <./Pictures/W(P) повыш.png>]
+<Pictures/W(P) пониж.png, id=61, 578.16pt x 433.62pt>
+File: Pictures/W(P) пониж.png Graphic file (type png)
+<use Pictures/W(P) пониж.png>
+Package pdftex.def Info: Pictures/W(P) пониж.png  used on input line 245.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
-Overfull \hbox (7.28452pt too wide) in paragraph at lines 281--282
+Overfull \hbox (7.28452pt too wide) in paragraph at lines 245--246
  [][] 
  []
 
-[32 <./W(P) пониж.png>] [33] (./2.3.1.aux)
+[32 <./Pictures/W(P) пониж.png>] [33] (./2.3.1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -898,8 +898,8 @@ Package rerunfilecheck Info: File `2.3.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14046 strings out of 479023
- 203910 string characters out of 5863350
+ 14047 strings out of 479023
+ 204099 string characters out of 5863350
  541168 words of memory out of 5000000
  31264 multiletter control sequences out of 15000+600000
  413274 words of font info for 53 fonts, out of 8000000 for 9000
