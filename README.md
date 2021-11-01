@@ -1,6 +1,8 @@
-#README
-
-This repository contains MIPT labs
+## This repository contains MIPT labs
 
 
-In third semester I had to carry out labs in particular order, thus page numeration is broken.
+#### In third semester I had to carry out labs in particular order, thus page numeration is broken.
+
+```Tex
+Tex
+```
